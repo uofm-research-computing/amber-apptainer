@@ -55,3 +55,5 @@ sbatch pmemd24.sh
 [Amber performance information](https://ambermd.org/GPUPerformance.php)
 
 [The amber project](https://ambermd.org/index.php)
+
+[Amber-MD dockerfile](https://github.com/Amber-MD/common-dockerfiles/blob/master/cuda-opencl/Dockerfile)
